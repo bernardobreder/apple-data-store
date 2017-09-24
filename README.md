@@ -1,10 +1,10 @@
-# Introdução
+# Introduction
 
-O componente DataStore é responsável por criar um pequeno banco de dados para armazenar em tabelas valores em Json.
+The DataStore component is responsible for creating a small database for storing values in Json.
 
-# Exemplo
+# Example
 
-O exemplo abaixo mostra a criação um sistema de arquivo com um diretório e um arquivo com um conteúdo:
+The example below shows the creation of a file system with a directory and a file with a content:
 
 ```swift
 let folder = MemoryFileSystem().home()
